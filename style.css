@@ -21,13 +21,13 @@ hr {
     border-color: #c2d6d6;
   }
 .blue{
-    background-color: rgb(231, 225, 247);
+    background-color: rgb(186 233 228);
     padding-top: 3%;
     padding-bottom: 3%;
     margin: 0;
 }
 .btn{
-    background-color: rgb(137, 119, 161);
+    background-color: rgb(97 159 161);
     border-radius:40%;
     border: 0;
     color: white;
@@ -39,7 +39,7 @@ hr {
     color:rgb(205, 177, 223) ;
 }
 .mid{
-    background-color: rgb(137, 119, 161);
+    background-color: rgb(97 159 161);
     margin: 0;
     color: white;
 }
