@@ -47,7 +47,6 @@ CREATE USER 'user'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON * . * TO 'user'@'localhost';
 FLUSH PRIVILEGES; 
 ```
-![image](https://user-images.githubusercontent.com/99676365/186223330-7b8518a0-3548-4201-9769-0d9b7a003289.png)
 
 
 Login to the mysql user made:
