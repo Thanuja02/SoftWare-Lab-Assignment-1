@@ -87,4 +87,3 @@ Database: Mysql
 
 Author:
 BT20CSE021 THANUJA
-BT19CSE036 (Hasan Koser)
